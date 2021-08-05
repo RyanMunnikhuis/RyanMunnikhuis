@@ -1,5 +1,11 @@
-### Hi there 👋
+<h1 align="center"> Ryan Munnikhuis </h1>
+<h2 align="center">  Data Scientist | Environmental Analyst | Arborist </h2> 
 
+**Personal Website** TBD
+**Linkedin Profile** https://www.linkedin.com/in/rmunnikh/
+
+
+Hi there! I am a graduate student in the Bren School of Environmental Data Science at the University of California, Santa Barbara. I hope to use data science to better environmental problems through big data management.
 <!--
 **RyanMunnikhuis/RyanMunnikhuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
