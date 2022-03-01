@@ -5,7 +5,7 @@
 **Linkedin Profile** https://www.linkedin.com/in/rmunnikh/
 
 
-Hi there! I am a graduate student in the Bren School of Environmental Data Science at the University of California, Santa Barbara. 
+Hi there! I am a master of environmental data science (MEDS) student at UC Santa Barbara (UCSB), where I am learning to integrate programmatic geospatial and statistical analysis into the environmental field. The MEDS program has taught me to appreciate open-source learning and the value of reproducible workflows. I hope to utilize my newfound skills to optimize efficency, visualize technically complex datasets, and expand data science’s use in everyday life.  
 <!--
 **RyanMunnikhuis/RyanMunnikhuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
