@@ -1,11 +1,7 @@
 <h1 align="center"> Ryan Munnikhuis </h1>
 <h2 align="center">  Data Scientist | Environmental Analyst | Arborist </h2> 
 
-[Personal Website](https://ryanmunnikhuis.github.io/)
-
-[Linkedin Profile](https://www.linkedin.com/in/rmunnikh/)
-
-[Capstone Project](https://github.com/MEDSsnowtoday) 
+[Personal Website](https://ryanmunnikhuis.github.io/) | [Linkedin Profile](https://www.linkedin.com/in/rmunnikh/) | [Capstone Project](https://github.com/MEDSsnowtoday) 
 
 Hi there! 
 
