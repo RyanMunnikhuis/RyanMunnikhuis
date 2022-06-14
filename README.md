@@ -4,7 +4,7 @@
 [Personal Website](https://ryanmunnikhuis.github.io/) | [Linkedin Profile](https://www.linkedin.com/in/rmunnikh/) | [Capstone Project Repository](https://github.com/MEDSsnowtoday) | [Capstone Technical Documentation](https://medssnowtoday.github.io/Technical_Documentation/index.html)
 
 
-Hi there! 
+## Hi there! 
 
 I am a master of environmental data science (MEDS) graduate from UC Santa Barbara (UCSB), where I learned to integrate programmatic geospatial and statistical analysis into the environmental field. The MEDS program has taught me to appreciate open-source learning and the value of reproducible workflows. 
 
